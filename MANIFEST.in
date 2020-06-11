@@ -1,0 +1,3 @@
+graft databatch2
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  databatch2/jupy *
